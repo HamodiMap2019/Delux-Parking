@@ -81,3 +81,21 @@ font-size: 7px
   background-color: darkorange;
   transition: all 0.5s ease-in;
 }
+
+.main-contact{
+  border: solid 3px black;
+  background-image: url(../contact.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+}
+.main-bookparking{
+  border: solid 3px black;
+  background-image: url(../book.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+
