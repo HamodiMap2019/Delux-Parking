@@ -99,3 +99,13 @@ font-size: 7px
 }
 
 
+.main-service{
+  border: solid 3px black;
+  background-image: url(../service.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+
+
+}
