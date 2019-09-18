@@ -24,11 +24,11 @@
   
   .active {
     background-color: red;
-    color: white;
+    color: beige;
   }
 
   header {
-    border: solid 3px black;
+    border: solid 3px darkblue;
     background-image: url(../Ferrari.jpg);
     height: 100vh;
     background-size: cover;
@@ -39,6 +39,7 @@
   text-align: center;
   padding-top: 100px; 
   font-size: 45px;
+  font-family: 'Special Elite', cursive;
 }
 .contact{
 color: beige;
@@ -46,12 +47,25 @@ text-align: left;
 padding-right: 200px;
 font-size: 7px
 
+
+
+
+
+}
+.contact{
+  border:solid 3px beige;
+  height: 35vh;
+  width: 100px;
+  
 }
 .Book-Parking{
    color: beige;
-    text-align: left;
-    padding-right: 200px;
+    text-align: right;
+    padding-right: 10px;
     font-size: 7px
+   
+   
+  
     
 }
 .button{
@@ -65,6 +79,7 @@ font-size: 7px
   text-decoration: none;
   margin-right: 5px;
   font-size: 13px;
+  font-family: 'Bangers', cursive;
   text-transform: uppercase;
 
 
@@ -100,13 +115,35 @@ font-size: 7px
 
 
 .main-service{
-  border: solid 3px black;
+  border: solid 3px beige;
   background-image: url(../service.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
 
 
+
+}
+
+.Book-Parking{
+  border:solid 3px beige;
+  height: 35vh;
+  width: 100px;
+  
+}
+
+.main-findus{ 
+  border: solid 3px beige;
+  background-image: url(../findus.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  
+}
+.findus{
+  border:solid 3px beige;
+  height: 35vh;
+  width: 100px;
 
 }
 
