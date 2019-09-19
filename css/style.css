@@ -37,7 +37,7 @@
 .mintext {
   color: darkblue;
   text-align: center;
-  padding-top: 100px; 
+  padding-top: 110px; 
   font-size: 45px;
   font-family: 'Special Elite', cursive;
 }
@@ -164,3 +164,18 @@ text-align: left;
 .findus p{
   font-size: 15px;
 }
+.mintext1{
+  color: darkblue;
+  text-align: center;
+  padding-top: 0px; 
+  font-size: 45px;
+  font-family: 'Special Elite', cursive;
+
+}
+.service{ color: beige;
+  text-align: top;
+  padding-right: 200px;
+  font-size: 13px;
+
+  }
+  
