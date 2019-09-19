@@ -184,12 +184,11 @@ text-align: left;
   .service p{
     font-size: 15px
   }
-  .main-aboutus{
-    border: solid 3px beige;
-  background-image: url(../aboutus.jpg);
-   height: 100vh;
+.main-webpage{border: solid 3px beige;
+  background-image: url(../webpage.jpg);
+  height: 100;
   background-size: cover;
   background-position: center;
-
+   
   }
   
