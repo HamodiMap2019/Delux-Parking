@@ -19,7 +19,7 @@
  
   .topnav a:hover {
     background-color: darkblue;
-    color: #F5F5DC;
+    color: beige;
   }
   
   .active {
@@ -75,7 +75,7 @@ font-size: 7px
 .btn{
   border:1px solid white;
   padding: 10px 100px;
-  color: #ddd;
+  color: beige;
   text-decoration: none;
   margin-right: 5px;
   font-size: 13px;
@@ -132,18 +132,8 @@ font-size: 7px
   
 }
 
-.main-findus{ 
-  border: solid 3px beige;
-  background-image: url(../findus.jpg);
-  height: 100vh;
-  background-size: cover;
-  background-position: center;
-  
+.findus{ color: beige;
+  text-align: left;
+  padding-right: 200px;
+  font-size: 7px
 }
-.findus{
-  border:solid 3px beige;
-  height: 35vh;
-  width: 100px;
-
-}
-
