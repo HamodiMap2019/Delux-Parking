@@ -54,7 +54,18 @@ font-size: 7px
 }
 .contact{
 color:beige;
+text-align: left;
+  padding-right: 200px;
+  font-size: 7px;
+
+
   
+}
+.contact h1{
+  font-size: 25px
+}
+.contact p{
+  font-size: 15px
 }
 .Book-Parking{
    color: beige;
