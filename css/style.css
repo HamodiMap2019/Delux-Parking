@@ -82,9 +82,9 @@ text-align: left;
   margin-left: 440px;
 }
 .btn{
-  border:1px solid white;
+  border:1px solid darkblue;
   padding: 10px 100px;
-  color: beige;
+  color: darkblue;
   text-decoration: none;
   margin-right: 5px;
   font-size: 13px;
@@ -154,7 +154,7 @@ text-align: left;
 }
 .main-findus{
   border: solid 3px beige;
-  background-image: url();
+  background-image: url(../find.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -177,5 +177,11 @@ text-align: left;
   padding-right: 200px;
   font-size: 13px;
 
+  }
+  .service h1{
+    font-size: 25px;
+  }
+  .service p{
+    font-size: 15px
   }
   
