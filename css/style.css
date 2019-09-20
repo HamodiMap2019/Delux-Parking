@@ -185,7 +185,7 @@ text-align: left;
     font-size: 15px
   }
 .main-webpage{border: solid 3px beige;
-  background-image: url(../webpage.jpg);
+  background-image: url('../contact.jpg');
   height: 100;
   background-size: cover;
   background-position: center;
